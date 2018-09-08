@@ -1,0 +1,83 @@
+a:hover
+{
+    color: darkblue;
+}
+
+.textJumpo
+{
+    font-family: "utopia-std",TimesNewRoman,"Times New Roman",Times,serif;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 5.2rem;
+}
+
+.myText
+{
+    font-family: "utopia-std",TimesNewRoman,"Times New Roman",Times,serif;
+    font-weight: 500;
+    text-align: center;
+    padding-bottom: 20px;
+}
+#features
+{
+    background-color: #111924;
+    color:silver;
+}
+
+.lineWrap
+{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    line-height: 40px;
+    font-weight: 200;
+}
+
+#explore
+{
+    background-image: url("maxresdefault.jpg");
+    padding-top: 50px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.explore:hover
+{
+    background-color: lightblue;
+}
+
+.mybg
+{
+    background-image: url("Travel-The-World-for-One-Year-Update.jpg");
+    background-size: cover;
+}
+
+#partners
+{
+
+background-image: url("travel-background-1469438756vUG.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+#footer
+{
+    background-color: #34495e;
+    padding-top: 50px;
+    color: silver;
+}
+
+.fab .fa-facebook
+{
+    width: 100px;
+}
+
+.footer__icon {
+    display: inline-block;
+    margin: 2.2rem 2.4rem 2.2rem 0;
+}
